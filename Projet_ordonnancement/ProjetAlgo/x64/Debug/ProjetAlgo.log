@@ -1,0 +1,8 @@
+﻿  AlgorithmeFinal.c
+C:\Users\Gaetan\source\repos\ProjetAlgo\ProjetAlgo\AlgorithmeFinal.c(53,27): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+C:\Users\Gaetan\source\repos\ProjetAlgo\ProjetAlgo\AlgorithmeFinal.c(50,23): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+C:\Users\Gaetan\source\repos\ProjetAlgo\ProjetAlgo\AlgorithmeFinal.c(78,26): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+C:\Users\Gaetan\source\repos\ProjetAlgo\ProjetAlgo\AlgorithmeFinal.c(249,32): warning C4244: '+=' : conversion de 'double' en 'int', perte possible de données
+C:\Users\Gaetan\source\repos\ProjetAlgo\ProjetAlgo\AlgorithmeFinal.c(315,32): warning C4244: '+=' : conversion de 'double' en 'int', perte possible de données
+C:\Users\Gaetan\source\repos\ProjetAlgo\ProjetAlgo\AlgorithmeFinal.c(385,11): warning C4244: 'fonction' : conversion de 'time_t' en 'unsigned int', perte possible de données
+  ProjetAlgo.vcxproj -> C:\Users\Gaetan\source\repos\ProjetAlgo\x64\Debug\ProjetAlgo.exe
